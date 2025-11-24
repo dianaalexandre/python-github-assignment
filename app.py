@@ -11,5 +11,6 @@ except ValueError:
 # Perform Calculation
 weekly_books = books * 7
 # Display Book Count
+# Display Output + Words of Encouragement
 print(f"You are on track to read {weekly_books} books this week.")
 print(f"Keep up the Good Work!!")
