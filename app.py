@@ -6,7 +6,7 @@ books = input("How many books did you read today?")
 try:
     books = float(books)
 except ValueError:
-    print("Please enter a valid number.")
+    print("Please enter a valid number. Numeric Values accepted only.")
     exit()
 # Perform Calculation
 weekly_books = books * 7
