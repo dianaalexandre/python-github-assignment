@@ -12,4 +12,4 @@ except ValueError:
 weekly_books = books * 7
 # Display Book Count
 print(f"You are on track to read {weekly_books} books this week.")
-print(f"Keep up the Good Work!")
+print(f"Keep up the Good Work!!")
