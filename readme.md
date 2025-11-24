@@ -2,9 +2,9 @@ Description
 Reading Tracker
 This program allows bookworms to track how many books they read every week. It allows individuals to keep track and eventually take count on how many books they will read per week and they can use this number for further calculation to meet a weekly goal.
 
-Run Instructions
+Run Instgructions
 To use this code, insert the number of book(s) you have read. The program then calcuates how many books will be read this week. It is a simple tool to work towards building reading habits.
-In order to run this code. Locate python_github_assignment in your terminal. Then use python3 app.py. 
+In order to run this code. Locate python_github_assignment in your terminal. Then use python3 app.py. You may also have to use "python app.py" depending on the terminal you use.
 
 Example Output:
 How many books did you read today?: "3"
